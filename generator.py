@@ -1,5 +1,5 @@
 def f1():
-    yield 123
+    yield 124
     yield "Sai"
     yield "Bangalore"
     yield 3000
